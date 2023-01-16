@@ -1,0 +1,1 @@
+# This directoruy contains NoSQL projects, feel free to check it out
