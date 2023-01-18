@@ -1,0 +1,1 @@
+# This directory contains projects on Redis baics 
